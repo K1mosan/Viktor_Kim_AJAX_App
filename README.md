@@ -9,5 +9,8 @@ On this website you can see a AR model of NOVO brand earbuds, which can be rotat
 ## Features Loading and Errors
 Below the ar model there is some text that is updated when the page reloads. All this is accompanied by an animated loading animation. Also, when the site fails to upload files, a small window pops up stating that there was an error on the site and that you should try again a little later.
 
+## Problems
+When opening a website to refresh the page and see the loading animation, sometimes it is necessary to refresh the page several times.
+
 ## Crerated by
 This project was created by Viktor Kim, student at Fanshawe College from Interactive Media Design program.
